@@ -40,7 +40,7 @@ export default function LoginPage() {
   return (
     <main style={{ padding: 40 }}>
       <h1>
-        Andrea Horton Admin Login
+        Kyle Goertzen's Admin Login
       </h1>
 
       <form onSubmit={login}>
