@@ -21,7 +21,7 @@ export default async function Admin() {
   return (
     <main style={{ padding: 40 }}>
       <h1>
-        Andrea Horton Dashboard
+        Kyle Goertzen's Dashboard
       </h1>
 
       <a href="/admin/new">
