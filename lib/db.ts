@@ -16,7 +16,6 @@ const dbPath =
 
 export const db = new Database(dbPath);
 
-// run schema ONLY ONCE safely
 db.exec(`
 CREATE TABLE IF NOT EXISTS posts (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
