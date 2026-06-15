@@ -9,9 +9,9 @@ export default function Home() {
   return (
     <main className="container">
       <header className="header">
-        <h1 className="title">Andrea Horton Blog</h1>
+        <h1 className="title">Kyle Goertzen's Blog</h1>
         <p className="subtitle">
-          Thoughts, updates, and writing
+          Thoughts, updates, and programming
         </p>
       </header>
 
